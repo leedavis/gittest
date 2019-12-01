@@ -1,2 +1,2 @@
-print('Hello world');
-print('testing the sync');
+print('Hello world')
+print('testing the sync')
